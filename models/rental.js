@@ -1,6 +1,6 @@
 // Imports
 const mongoose = require('mongoose');
-const Joi = require('Joi');
+const Joi = require('joi');
 const moment = require('moment');
 
 
