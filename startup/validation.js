@@ -1,5 +1,5 @@
 // Imports
-const Joi = require('Joi');
+const Joi = require('joi');
 
 // Validation for objectID
 module.exports = function() {
